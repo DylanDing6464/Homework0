@@ -1,4 +1,4 @@
-celsiusDegree= input('Enter temperature in celsuis: \n')
+celsiusDegree= input('Enter temperature in celsuis: ')
 celsiusDegree = int(celsiusDegree)
 
 fahrenheitDegree = 1.8*celsiusDegree+32
